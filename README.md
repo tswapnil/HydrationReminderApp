@@ -1,0 +1,1 @@
+This app sends you a notification every 30 minutes to drink water if your phone is put on charging.
